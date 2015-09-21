@@ -22,7 +22,9 @@ Make sure ```export PATH=$PATH:$GOPATH/bin``` is set.
 
 
 ##### Options
-	-to=TYPE                       Choose output image type. Available: png, jpeg, gif. Default: png.
+	-to=TYPE                       Choose output image type.
+	                               Available: png, jpeg, gif.
+	                               Default: png.
 
 
 ##### IMAGE
