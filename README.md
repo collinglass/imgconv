@@ -2,6 +2,12 @@
 
 A tiny elven image conversion command line tool.
 
+## Example
+
+``` bash
+$ imgconv -to=png example/armed_gopher.jpg
+```
+
 
 ## Install
 
