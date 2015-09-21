@@ -27,7 +27,7 @@ Make sure ```export PATH=$PATH:$GOPATH/bin``` is set.
 	                               Default: png.
 
 
-##### IMAGE
+##### Image
 
 Relative path to images to convert.
 
